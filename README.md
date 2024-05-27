@@ -106,7 +106,7 @@ __That's it!__
 <br>
 
 
-
+Then to install ROS2 Humble, follow the instractions here: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 
 
 
