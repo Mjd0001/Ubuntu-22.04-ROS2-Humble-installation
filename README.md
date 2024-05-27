@@ -75,3 +75,39 @@ you can change these settings when every you want by click on 'Edit virtual mach
 refference: https://youtu.be/9rUhGWijf9U?si=FLkbDTYp9KXtFoKz
 <br><br><br>
 
+## Step 3: Ubuntu 22.04 Setup
+1- Run the virtual machine by click on 'Play virtual Machine'<br>
+2- Select the language 'English' then press 'install ubuntu':<br>
+![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/38b9a336-edc4-42ad-906e-c0cd255cdf63)
+<br><br>
+3- This to change Keyboard Layout ( it is better to not change it , let it stay english as default). then click continue:<br>
+![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/8991d18d-efb6-40f7-9830-22a85e9a8c87)
+<br><br>
+4- In the next window keep every things as default and press continue:<br>
+![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/a6440515-475e-4089-9321-17c2d5facfa0)
+<br><br>
+5- Then in the next window, select 'Erase disk and install Ubuntu' (don't be afraid nothing will Erased):<br>
+![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/5696dc42-0c4a-4c5f-98b6-c1c4754fd43d)
+<br>Then click 'inatall Now'.<br><br>
+
+6- Then clich continue and choose your timezone:<br>
+![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/a09df4a1-91b9-484a-a9c9-49d9eceb1260)
+<br><br>
+7- Then Enter your Information (You have to remember the password, it is important), then press continue and it will start installing (it will take a time):<br>
+![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/0dacb3c7-97dc-4169-a194-be4fc40abbd4)
+<br><br>
+8- Then after installing, press 'Restart Now':<br>
+![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/cc652add-15fd-48e9-b8e9-7b51efd9441a)
+<br><br>
+9- if you see this screen press Enter:<br>
+![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/77783ebd-088f-470f-874d-33e61bac7014)
+<br><br>
+__That's it!__
+<br>
+
+
+
+
+
+
+
