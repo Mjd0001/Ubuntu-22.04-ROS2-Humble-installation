@@ -1,5 +1,5 @@
-# VMWarte-Ubuntu-22.04-installation
-Steps of installing VMWare Workstation Player 17 on Windows 11, and installing Ubuntu 22.04 
+# VMWarte, Ubuntu 22.04 and ROS2 Humble installation
+Steps of installing VMWare Workstation Player 17 on Windows 11, installing Ubuntu 22.04, and installing ROS2 Humble
 <br>
 <br>
 <br>
@@ -101,7 +101,11 @@ refference: https://youtu.be/9rUhGWijf9U?si=FLkbDTYp9KXtFoKz
 <br><br>
 9- if you see this screen press Enter:<br>
 ![image](https://github.com/Mjd0001/VMWarte-Ubuntu-22.04-installation/assets/105239889/77783ebd-088f-470f-874d-33e61bac7014)
-<br><br>
+<br><br><br>
+## Step3: ROS2 installation
+follow the instractions here (copy and paste), and make sure to choose Desktop Install: <br>
+[https://docs.ros.org/en/humble/Installation.html](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
+<br>
 __That's it!__
 <br>
 
