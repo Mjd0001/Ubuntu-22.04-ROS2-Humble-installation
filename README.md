@@ -105,12 +105,11 @@ refference: https://youtu.be/9rUhGWijf9U?si=FLkbDTYp9KXtFoKz
 ## Step3: ROS2 installation
 follow the instractions here (copy and paste), and make sure to choose Desktop Install: <br>
 [https://docs.ros.org/en/humble/Installation.html](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
-<br>
+<br><br>
 __That's it!__
 <br>
 
 
-Then to install ROS2 Humble, follow the instractions here: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 
 
 
